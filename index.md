@@ -2,16 +2,17 @@
 layout: default
 title: Summer 2020 DREU Project Site
 ---
-
 ## About Me
 
-Ashley Chen is a computer science major at the University of Minnesota - Twin Cities. She is an incoming junior with an expected graduation of Spring 2024. 
+Ashley Chen is a computer science major at the University of Minnesota - Twin Cities. She is an incoming junior with an expected graduation of Spring 2024. <br />
+<br />
 Contact at: ashley.chen.mn@gmail.com
 
 ## About My Mentor
 
-Nancy M. Amato is Head of the Computer Science Department and Abel Bliss Professor of Engineering at the University of Illinois at Urbana-Champaign. Her areas of research include robotics task and motion planning, computational biology and geometry, and parallel and distributed computing.
-For more information: https://parasollab.web.illinois.edu/people/amato/
+Nancy M. Amato is Head of the Computer Science Department and Abel Bliss Professor of Engineering at the University of Illinois at Urbana-Champaign. Her areas of research include robotics task and motion planning, computational biology and geometry, and parallel and distributed computing. <br />
+<br />
+For more information: [Her Website](https://parasollab.web.illinois.edu/people/amato/)
 
 ## About My Project
 
