@@ -18,7 +18,7 @@ For more information: https://parasollab.web.illinois.edu/people/amato/
 
 ## About My Project
 
-Reservoir computing (RC) is a type of recurrent neural network inspired by actual neurological processes. The goal is to implement and study RC using biorealistic neural system simulator Nengo. 
+The Mind in Vitro (MiV) investigation’s overarching goal is to study the potential for computation using living neurons as an alternative to von Neumann architectures. Our project is an investigation into reservoir computing (RC), a potential architecture which can use a neuron culture as a “reservoir”. RC is a machine learning strategy most commonly used for temporal classification and prediction tasks. In our summer research, we explored implementing RC using the biophysical neuron simulator Nengo, while adjusting a variety of parameters, to assess the potential of RC for neurological computation.
 
 [My Final Report](files/finalreport.pdf)
 
