@@ -3,9 +3,6 @@ layout: default
 title: Summer 2020 DREU Project Site
 ---
 
-* TOC
-{:toc}
-
 ## About Me
 
 Ashley Chen is a computer science major at the University of Minnesota - Twin Cities. She is an incoming junior with an expected graduation of Spring 2024. 
