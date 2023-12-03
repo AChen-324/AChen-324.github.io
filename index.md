@@ -4,7 +4,8 @@ title: Personal Website
 ---
 ## About Me
 
-Ashley Chen is a computer science major at the University of Minnesota - Twin Cities with an expected graduation of Spring 2024. <br />
+I am a computer science major at the University of Minnesota - Twin Cities with an expected graduation of Spring 2024. My main areas of interest are brain-inspired computing and computational neuroscience. <br />
+I am also a black belt in TaeKwonDo and I love teaching TaeKwonDo at my local dojang! <br />
 <br />
 Contact at: ashley.chen.mn@gmail.com
 
